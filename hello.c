@@ -7,7 +7,7 @@ int main()
 
     printf("Md Rakibul Hasan\n");
 
-    printf("> > > >")
+    printf("> > > >");
 
     return 0;
 }
